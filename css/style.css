@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
+
+.padding-15px {
+  padding: 15px;
+}
+
+.box {
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 13px;
+}
+
+.blue {
+  background-color: #006eff;
+  height: 100%;
+  min-height: 50px;
+  border: 1px solid white;
+}
+
+.green {
+  background-color: #00e552;
+  height: 50px;
+  border: 1px solid #006eff;
+}
