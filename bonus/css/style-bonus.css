@@ -1,0 +1,25 @@
+body {
+  font-family: "Press Start 2P", cursive;
+  background-color: #1d212d;
+}
+
+.container > h1 {
+  text-align: center;
+  margin: 10px 0 50px 0;
+}
+
+.pixel-box {
+  height: 50px;
+}
+
+.black-pixel {
+  background-color: #131212;
+}
+
+.red-pixel {
+  background-color: #b9243f;
+}
+
+.cremesis-pixel {
+  background-color: #971a3c;
+}
