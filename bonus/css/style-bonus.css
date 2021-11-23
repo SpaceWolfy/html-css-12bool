@@ -23,3 +23,27 @@ body {
 .cremesis-pixel {
   background-color: #971a3c;
 }
+
+.brown-pixel {
+  background-color: black;
+}
+
+.occhio-spento {
+  display: block;
+}
+
+.occhio-acceso {
+  display: none;
+}
+
+.occhio-wrapper:hover .occhio-spento {
+  display: none;
+}
+
+.occhio-wrapper:hover .occhio-acceso {
+  display: block;
+}
+
+/* .occhio-spento:hover ~ .occhio-acceso {
+  display: block;
+} */
